@@ -1,0 +1,7 @@
+vanna>=0.0.27
+openai>=1.0.0
+mysql-connector-python>=8.0.0
+pandas>=1.5.0
+numpy>=1.21.0
+python-dotenv>=0.19.0
+chromadb>=0.4.0 
